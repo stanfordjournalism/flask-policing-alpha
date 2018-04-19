@@ -1,0 +1,14 @@
+body{
+    color: purple;
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    background: PeachPuff; /* https://htmlcolorcodes.com/color-names/ */
+}
+
+a:link, a:visited{
+    color: deeppink;
+}
+
+a:hover{
+    color: orange;
+    text-decoration: underline;
+}
